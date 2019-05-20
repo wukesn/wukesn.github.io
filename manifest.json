@@ -1,0 +1,23 @@
+{
+  "short_name": "木槿暖夏、",
+  "name": "木槿暖夏、的博客",
+  "icons": [
+    {
+      "src": "/public/images/icons/me.jpg",
+      "type": "image/png/jpg",
+      "sizes": "128x128"
+    },
+    {
+      "src": "/public/images/icons/me.jpg",
+      "type": "image/png/jpg",
+      "sizes": "152x152"
+    },
+    {
+      "src": "/public/images/icons/me.jpg",
+      "type": "image/png/jpg",
+      "sizes": "192x192"
+    }
+  ],
+  "start_url": "/?utm_source=homescreen",
+  "display": "standalone"
+}

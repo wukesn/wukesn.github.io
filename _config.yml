@@ -1,0 +1,46 @@
+# Permalinks
+permalink:        /post/:title.html
+
+# Setup
+url:              https://wukesn.github.io
+img_url:          https://infp.github.io/images
+
+# Set to '' in case of hosting on `https://<your-github-name>.github.io`
+baseurl:          ''
+
+title:            '木槿暖夏、'
+
+# Markdown enabled, however don't use more than one paragraph (enforced by `>`)
+description:      >
+  关于[代码](https://wukesn.github.io/code/)。
+
+
+# Google Analytics tracking ID
+# TODO: 如果使用本主题，请务必替换此处的 Google 统计代码，否则你的站点将无法获得统计数据
+analytics:        'UA-32028925-2'
+
+# Fallback image and color if not overwritten for tag or post
+image:            /public/images/c2.jpg
+color:            '#dc322f'
+
+author:
+  name:           '木槿暖夏、'
+  email:          wukesn@163.com
+  github:         wukesn
+  photo:          /public/images/me.jpg
+
+
+  # Markdown enabled, can use multiple paragraphs (enabled by `|`)
+  about:          |
+    我是木槿暖夏、，喜欢编程和IT技术，如果大家对于文章有更多的见解或者疑问，请多多[留言](https://github.com/wukesn/talk/issues/new)或[联系](https://wukesn.github.io/about.html#buymeacoffee)我。
+
+
+compress_html:
+  clippings:      all
+  comments:       ["<!--", "-->"]
+  endings:        all
+  startings:      [html, head, body]
+
+sass:
+  sass_dir:       /public/css
+  style:          compressed
