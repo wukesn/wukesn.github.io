@@ -14,4 +14,12 @@ code:
   name: 代码
   image: /public/images/c1.jpg
   description: >
-    代码是一门艺术
+    编程，IT技术
+
+docker:
+  name: docker
+  image: /public/images/c3.jpg
+  description: >
+    docker应用
+
+
