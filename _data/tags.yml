@@ -22,4 +22,11 @@ docker:
   description: >
     docker应用
 
+leetcode:
+  name: leetcode
+  image: /public/images/c5.jpg
+  description: >
+    leetcode刷题
+
+
 
