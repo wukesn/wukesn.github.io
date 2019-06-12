@@ -28,5 +28,10 @@ leetcode:
   description: >
     leetcode刷题
 
+mysql:
+  name: mysql
+  image: /public/images/c5.jpg
+  description: >
+    mysql 笔记
 
 
